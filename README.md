@@ -1,0 +1,2 @@
+# awsrestart-python
+Python exercises
