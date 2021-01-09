@@ -8,3 +8,6 @@ The program asks for an user input, age, and according to the answer, it will re
 
 # conditionals-bananas.py 
 Script uses a while loop to run multiple times. It asks for an user input, 'how many bananas do you have' according to the user answer, it will categorize the amount of bananas.
+
+# definingfunctions.py
+A function is defined and called. The program asks for an name and age, then gives an output according to the age provided
